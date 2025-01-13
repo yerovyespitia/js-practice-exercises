@@ -1,7 +1,7 @@
 const invertArray = (arr) => {
-    const result = arr.reverse()
+  const result = arr.reverse()
 
-    return result
+  return result
 }
 
 console.log(invertArray([1, 2, 3]))
