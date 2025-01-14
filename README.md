@@ -45,4 +45,4 @@
 9. Palindrome
 
 - Write a function that takes a string and verify is the string is palindrome
-- Example: palindrome("racercar") -> true
+- Example: palindrome("racecar") -> true
